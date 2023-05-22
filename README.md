@@ -1,3 +1,3 @@
 ## curso Ada
 
-## Gravando mudanças no git
+## Gravando mudanças no GIT.
