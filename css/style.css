@@ -1,8 +1,17 @@
 * {
     padding: 0;
+   
 }
 
-h1 {
+:root {
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
     color: rgb(6, 126, 126);
     font-weight: 900;
     font-style: oblique;
@@ -18,4 +27,17 @@ h1 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+}
+
+.form1{
+    text-align: left;
+    text-decoration: solid;
+}
+
+a {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+a:hover {
+    color: red;
 }
