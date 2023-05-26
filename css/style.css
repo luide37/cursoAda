@@ -1,4 +1,21 @@
+* {
+    padding: 0;
+}
+
 h1 {
-    color: blue;
+    color: rgb(6, 126, 126);
     font-weight: 900;
+    font-style: oblique;
+    text-shadow: 100;
+    text-align: center;
+}
+
+.bgimg {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    background-image: url('https://th.bing.com/th/id/OIP.6tlSKlj5dJgzb796PkJmywHaCQ?pid=ImgDet&rs=1');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
 }
